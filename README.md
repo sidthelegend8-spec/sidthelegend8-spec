@@ -1,157 +1,111 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FF3131&text=SIDDHARTH&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=fadeIn"/>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Siddharth
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=🚀+Future+Pilot;✈️+Future+Aerospace+Engineer;💻+Full-Stack+Developer;🤖+AI+Builder;🛰️+Building+Projects+That+Matter;🔥+Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=FF3131&center=true&vCenter=true&width=900&lines=✈️+Future+Pilot;🚀+Future+Aerospace+Engineer;🤖+AI+Developer;💻+Full-Stack+Developer;🛰️+Engineering+Tomorrow;⚡+Always+Learning"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=180&section=header&text=Welcome%20Aboard&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<br>
 
-### 🚀 High School Student • AI Developer • Aviation Enthusiast • Future Aerospace Engineer
+<a href="https://sk-portfolio-blue.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF3131?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-# 🌐 **MY PORTFOLIO**
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aerospace-111111?style=for-the-badge&logo=nasa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aviation-111111?style=for-the-badge&logo=boeing&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-111111?style=for-the-badge&logo=github&logoColor=white"/>
 
-# ## 🔗 **https://sk-portfolio-blue.vercel.app**
-
-### ⭐ Check out all of my projects, apps, and experiments!
-
----
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=red"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=red"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212750655-4d4f6b3b-46a4-4d45-9a88-19dbd6c0b6fb.gif" width="100%">
+
+# 👨‍🚀 About Me
 
 ```yaml
 Name: Siddharth
-Role: Student Developer
-Age: High School
-Location: California 🇺🇸
 
-Dream Career:
-  ✈️ Airline Pilot
+Role:
+  High School Student
+
+Career Goals:
+  ✈️ Professional Pilot
   🚀 Aerospace Engineer
 
-Main Interests:
-  - Artificial Intelligence
-  - Aerospace
-  - Aviation
-  - Programming
-  - Physics
-  - Engineering
+Specialties:
+  • Artificial Intelligence
+  • Software Engineering
+  • Aerospace Technology
+  • Aviation
+  • Full-Stack Development
+
+Current Focus:
+  Building modern software that combines
+  AI, engineering, and productivity.
 
 Mission:
-  Build technology that helps people while
-  pushing myself closer to aviation and aerospace.
-
-Currently Building:
-  - AI Applications
-  - Student Productivity Software
-  - Aerospace Simulations
-  - Multi-Agent AI Systems
-
-Life Motto:
-  "Never stop learning."
+  Learn.
+  Build.
+  Fly.
 ```
 
 ---
 
-# ✈️ Pilot Journey
+<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb1c0d6-f9d6-4d85-b0bb-f7bdfc4e6d07.gif" width="100%">
+
+# ✈️ Career Journey
 
 ```text
-Student
-██████████░░░░░░░░░░░░░░░░░░░░
+🎓 High School Student
+██████████████████████████████████
 
-Private Pilot
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+💻 Software Engineer
+████████████████████████░░░░░░░░░
 
-Commercial Pilot
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+🛩 Private Pilot
+███████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Airline Transport Pilot
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+✈️ Commercial Pilot
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+🚀 Aerospace Engineer
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ---
 
-# 🚀 Aerospace Roadmap
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f7d72-72c6-4c87-8a3d-6d26b9b84cb3.gif" width="100%">
 
-- ✅ Learn Programming
-- ✅ Learn AI
-- 🔄 Learn Flight Physics
-- 🔄 Learn Aerodynamics
-- 🔄 Learn Engineering Mathematics
-- 🔄 Build Aerospace Software
-- ⏳ Aerospace Engineering Degree
-- ⏳ Pilot Training
-- ⏳ Professional Career
+# 🛰 Currently Learning
 
----
+```text
+Artificial Intelligence      ██████████████████████████
 
-# 🚀 Current Projects
+Machine Learning             ███████████████████████
 
-## 🧠 School OS
+Aerodynamics                 ████████████████████
 
-The all-in-one operating system for students.
+Flight Mechanics             ██████████████████
 
-```
-📚 Notes
-✅ Tasks
-📅 Calendar
-📖 Library
-📊 Dashboard
-🧠 AI
-☁️ Sync
-⚡ Offline
+System Design                ██████████████████████
+
+Physics                      ███████████████████
 ```
 
 ---
 
-## ✈️ AeroAtlas
+<img src="https://user-images.githubusercontent.com/74038190/212750655-4d4f6b3b-46a4-4d45-9a88-19dbd6c0b6fb.gif" width="100%">
 
-Modern aviation encyclopedia.
-
-```
-🛫 Aircraft Database
-🌍 Airlines
-📚 Aviation Knowledge
-🛰️ Interactive Maps
-```
-
----
-
-## 🤖 AI
-
-```
-🧠 Local LLMs
-⚡ Ollama
-🤖 AI Agents
-🪄 Memory Systems
-💬 Chat Applications
-```
-
----
-
-## 🚀 RocketLab
-
-```
-🛰️ Rocket Simulator
-🌬️ Aerodynamics
-📈 Flight Analysis
-🚀 Physics Engine
-```
-
----
-
-# ⚙️ Tech Stack
+# 💻 Technology Stack
 
 <div align="center">
 
@@ -159,116 +113,66 @@ Modern aviation encyclopedia.
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css"/>
 
+<br><br>
+
 ### Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase"/>
 
+<br><br>
+
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,figma"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/216656964-7b8e6152-cd1c-4b39-9308-3e77427964df.gif" width="100%">
 
-<div align="center">
+# 🎯 Vision
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+> **Building software today that prepares me for a future in aviation, aerospace, and engineering.**
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📡 Currently Learning
+<br>
 
 ```text
-Artificial Intelligence      ██████████████████████
-System Design                ████████████████████
-Aerodynamics                 ███████████████░░░░░
-Flight Mechanics             ███████████████░░░░░
-Machine Learning             █████████████████░░░
-Physics                      █████████████████░░░
+Learn  →  Build  →  Innovate  →  Fly
 ```
 
 ---
 
-# 🌌 Fun Facts
-
-- ✈️ Future Pilot
-- 🚀 Future Aerospace Engineer
-- 🤖 AI Builder
-- 💻 Loves Building Software
-- 📚 Always Learning
-- 🛰️ Space & Aviation Nerd
-
----
-
-# ⚡ Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-Python        ████████████
-TypeScript    ██████████
-JavaScript    ███████
-HTML/CSS      ██████
-C++           ████
-```
-<!--END_SECTION:waka-->
-
----
-
-# 🐍 Contributions
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+## 🌎 Connect With Me
+
+<a href="https://sk-portfolio-blue.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-FF3131?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 💭 Favorite Quote
-
-> **"The sky is not the limit—it's only the beginning."** 🚀
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF3131&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Always+building.;Always+learning.;See+you+above+the+clouds.+✈️;The+journey+has+just+begun.+🚀"/>
 
-## ⭐ Thanks for visiting my profile!
+<br><br>
 
-### 🚀 See everything I've built:
+<a href="https://sk-portfolio-blue.vercel.app">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-FF3131?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-# **https://sk-portfolio-blue.vercel.app**
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FF3131&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!;Have+an+awesome+day!;See+you+among+the+stars!+🚀"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=FF3131"/>
 
 </div>
